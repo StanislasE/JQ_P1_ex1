@@ -1,0 +1,7 @@
+.background{
+    background-color: #000000;
+}
+.color , .colorT{
+    color: #FFFFFF;
+    border: solid 2px #FFFFFF;
+}
